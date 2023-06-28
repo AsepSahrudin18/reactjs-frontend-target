@@ -141,3 +141,12 @@ Referensi: https://javascript.info/object
 - Loops khusus pada object menggunakan method: for-in.
 
 Referensi: https://javascript.info/object#the-for-in-loop
+
+## Props
+- Component dapat menerima input/parameter yang disebut props.
+- Singkatan dari properties.
+- Membuat component menjadi lebih dinamis dan reusable.
+- Props bersifat read-only (tidak boleh diubah).
+
+Referensi: https://reactjs.org/docs/components-and-props.html
+
